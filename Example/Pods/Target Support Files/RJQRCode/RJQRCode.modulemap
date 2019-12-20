@@ -1,0 +1,6 @@
+framework module RJQRCode {
+  umbrella header "RJQRCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

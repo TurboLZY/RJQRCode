@@ -1,0 +1,16 @@
+PODS:
+  - RJQRCode (0.1.0)
+
+DEPENDENCIES:
+  - RJQRCode (from `../`)
+
+EXTERNAL SOURCES:
+  RJQRCode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RJQRCode: ae4c41aee3a78798d9718dafc447b4c97e469307
+
+PODFILE CHECKSUM: 93b10a1bea9c24e4a1354705b3faa32c1c1bf8d2
+
+COCOAPODS: 1.7.5

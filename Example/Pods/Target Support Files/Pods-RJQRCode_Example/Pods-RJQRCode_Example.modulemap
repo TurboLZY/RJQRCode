@@ -1,0 +1,6 @@
+framework module Pods_RJQRCode_Example {
+  umbrella header "Pods-RJQRCode_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
